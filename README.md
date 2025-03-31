@@ -17,7 +17,9 @@ Changes made via Lovable will be committed automatically to this repo.
 
 **Are you new to programming?**
 
-If you're new to programming, check out our [beginner-friendly installation guide](INSTALL.md) that walks you through the setup process step-by-step.
+If you're new to programming, you have two options:
+- Check out our [beginner-friendly installation guide](INSTALL.md) that walks you through the setup process step-by-step.
+- For an even simpler tutorial with screenshots, see our [simple installation tutorial](INSTALL-TUTORIAL.md).
 
 **Use your preferred IDE**
 
