@@ -21,6 +21,10 @@ If you're new to programming, you have two options:
 - Check out our [beginner-friendly installation guide](INSTALL.md) that walks you through the setup process step-by-step.
 - For an even simpler tutorial with screenshots, see our [simple installation tutorial](INSTALL-TUTORIAL.md).
 
+**Installing on Raspberry Pi?**
+
+If you want to install this tool directly on your Raspberry Pi device, see our [Raspberry Pi installation guide](RASPBERRY-PI-INSTALL.md).
+
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
